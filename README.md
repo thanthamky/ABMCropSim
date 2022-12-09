@@ -3,7 +3,9 @@
 To run the module...
 
 1) install all packages in requirements.txt
-2) running main.py
+2) running main.py by
+
+<code> python main.py </code>
 
 to request via GET method
 
